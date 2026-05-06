@@ -96,7 +96,11 @@ While not a separate binary in all cases, OpenFOAM supports Direct Numerical Sim
 
 ---
 
-Now here is a structured map of these categories and their principal solvers:---
+Now here is a structured map of these categories and their principal solvers:
+
+![OpenFOAM — solver taxonomy by physical regime](./solvers.png)
+
+---
 
 ## Cross-cutting architectural notes relevant to solver selection
 
