@@ -4,6 +4,7 @@
 + [A Comprehensive Technical Overview](./intro.md)
 + [Mesh Infrastructure](./mesh.md)
 + [Turbulence Modelling](./turbulence.md)
++ [Core Solver Categories](./solvers.md)
 
 ---
 
