@@ -1,7 +1,7 @@
 # OpenFOAM Evaluation
 
 ## Main Feauters
-+ [OpenFOAM Introduction](./intro.md)
++ [A Comprehensive Technical Overview](./intro.md)
 
 ---
 
