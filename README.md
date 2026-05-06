@@ -1,10 +1,10 @@
 # OpenFOAM Evaluation
 
 ## Main Feauters
-+ [A Comprehensive Technical Overview](./intro.md)
-+ [Mesh Infrastructure](./mesh.md)
-+ [Turbulence Modelling](./turbulence.md)
-+ [Core Solver Categories](./solvers.md)
++ [A Comprehensive Technical Overview](./doc/intro.md)
++ [Mesh Infrastructure](./doc/mesh.md)
++ [Turbulence Modelling](./doc/turbulence.md)
++ [Core Solver Categories](./doc/solvers.md)
 
 ---
 
