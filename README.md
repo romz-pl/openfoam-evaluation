@@ -6,6 +6,7 @@
 + [Turbulence Modelling](./doc/turbulence.md)
 + [Core Solver Categories](./doc/solvers.md)
 + [Dynamic Mesh Capabilities](./doc/dynamic.md)
++ [Combustion Models](./doc/combustion.md)
 
 ---
 
