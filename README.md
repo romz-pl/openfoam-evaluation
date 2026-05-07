@@ -7,6 +7,7 @@
 + [Core Solver Categories](./doc/solvers.md)
 + [Dynamic Mesh Capabilities](./doc/dynamic.md)
 + [Combustion Models](./doc/combustion.md)
++ [Parallel Execution](./doc/parallel.md)
 
 ---
 
